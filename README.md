@@ -37,7 +37,7 @@ A searchable card dictionary for the Mega Man Star Force series.
 **Games:** Unity
 **Tools:** Git, GitHub, Vercel
 
-**Currently learning:** [e.g., ASP.NET Core, Azure, automated testing & CI/CD]
+
 
 ---
 
